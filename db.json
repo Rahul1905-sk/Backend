@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": "98",
+      "caption": "first pic",
+      "image_url": "https://i.ibb.co/CwtLtYN/1600w-L9mw4-BDi-Lsw.webp"
+    },
+    {
+      "id": "sda",
+      "caption": "Second pic",
+      "image_url": "https://i.ibb.co/WvH7KRq/1.jpg"
+    },
+    {
+      "id": "fdef",
+      "caption": "third pic",
+      "image_url": "https://i.ibb.co/nC19n9g/p-466-pm-1119-Copy.jpg"
+    },
+    {
+      "id": "6fg",
+      "caption": "dfggdf",
+      "image_url": "https://i.ibb.co/7tg1WST/2.jpg"
+    },
+    {
+      "id": "dfsd",
+      "caption": "dfsdf",
+      "image_url": "https://i.ibb.co/YThdNVb/images-2.jpg"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
